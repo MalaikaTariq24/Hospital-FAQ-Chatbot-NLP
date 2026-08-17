@@ -2,6 +2,21 @@
 
 An intelligent, dual-task Natural Language Processing (NLP) pipeline that classifies patient inquiries into hospital departments while dynamically detecting urgency levels.
 
+---
+
+## 👩‍💻 Developer & Author
+
+* **Malaika Tariq** — *Machine Learning & NLP Developer*
+
+---
+
+## 🔗 Live Application & Repository
+
+* **🌐 Live Web App:** [https://hospital-faq-chatbot-nlp-gwchtxmt9fmo6rz8hkm5gk.streamlit.app/](https://hospital-faq-chatbot-nlp-gwchtxmt9fmo6rz8hkm5gk.streamlit.app/)
+* **📁 GitHub Repository:** [https://github.com/hafiz/Hospital-FAQ-Chatbot](https://github.com/hafiz/Hospital-FAQ-Chatbot)
+
+---
+
 ## 📌 System Architecture
 
 - **Intent Classification Model:** Multi-class classification across 9 operational categories (*Billing, Emergency, Parking, Appointments, etc.*).
